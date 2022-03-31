@@ -1,0 +1,23 @@
+{
+  "name": "ts-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KovaletsIvan/TS-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KovaletsIvan/TS-test/issues"
+  },
+  "homepage": "https://github.com/KovaletsIvan/TS-test#readme",
+  "dependencies": {
+    "typescript": "^4.6.3"
+  }
+}
